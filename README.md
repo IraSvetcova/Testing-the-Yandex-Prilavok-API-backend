@@ -8,6 +8,6 @@
 - Оформить баг-репорты после тестирования.
 
 ### Реализация:
-Чек-лист API: [functional-checklists](./functional-checklists.pdf)
+Чек-лист API: [API_checklist](./API_checklist.pdf)
 
 Баг-репорты после проведения тестирования: [bug-reports](./bug-reports.pdf)
